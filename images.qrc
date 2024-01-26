@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/444.jpeg</file>
+        <file>images/abut.png</file>
+        <file>images/add_button.png</file>
+        <file>images/back.png</file>
+        <file>images/chat.png</file>
+        <file>images/email.png</file>
+        <file>images/fon.jpg</file>
+        <file>images/fon1.jpg</file>
+        <file>images/greenhouse.png</file>
+        <file>images/logOut_button.png</file>
+        <file>images/menu.png</file>
+        <file>images/nastr.png</file>
+        <file>images/ok_button.png</file>
+        <file>images/plus.png</file>
+        <file>images/profile2.png</file>
+        <file>images/profile_image.png</file>
+        <file>images/save_button.png</file>
+        <file>images/send.png</file>
+        <file>images/svet.png</file>
+        <file>images/temp.png</file>
+        <file>images/water.png</file>
+        <file>images/zamok.png</file>
+        <file>images/tel.png</file>
+        <file>images/del.png</file>
+        <file>images/lupa_search.png</file>
+    </qresource>
+</RCC>
